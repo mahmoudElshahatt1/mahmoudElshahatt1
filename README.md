@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **I’m Mahmoud Elshahatt — Android Engineer with 3+ years of hands-on experience shipping fast and rock-solid apps.
-Bachelor’s in Computer Science & Engineering – Mansoura University ’24.**
+Bachelor’s in Computer Science & Engineering – Mansoura University 2024.**
 
 ⭐ **Android Developer at AAIT.**
 
