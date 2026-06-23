@@ -3,11 +3,11 @@
 **I’m Mahmoud Elshahatt — Android Engineer with 3+ years of hands-on experience shipping fast and rock-solid apps.
 Bachelor’s in Computer Science & Engineering – Mansoura University 2024.**
 
-⭐ **Android Developer at AAIT.**
+⭐ **Former Android Developer at AAIT.**
 
-⭐ **Ex- Jr. Android Developer at Alexon Incorp.**
+⭐ **Former Jr. Android Developer at Alexon Incorp.**
 
-⭐ **Ex- Head of Android Circle at CAT Reloaded.**
+⭐ **Former Head of Android Circle at CAT Reloaded.**
 
 **What I bring to the table:**
 
